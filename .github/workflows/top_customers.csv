@@ -1,0 +1,11 @@
+customer_id,customer_name,region,total_sales
+70,Customer_70,South,29948.85
+57,Customer_57,South,28160.14
+20,Customer_20,North,27024.21
+18,Customer_18,North,26356.42
+69,Customer_69,North,24116.1
+59,Customer_59,West,23690.22
+88,Customer_88,South,22587.09
+71,Customer_71,North,22203.14
+51,Customer_51,North,21719.84
+52,Customer_52,East,20796.9
